@@ -369,10 +369,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d2544869b1c7e5c4d867241f15670df6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  playerName: Maynard
-  healthPoints: 100
-  damageOutput: 50.5
-  isMale: 1
+  playerName: CIIT
+  healthPoints: 250
+  damageOutput: 85.9
+  gender:
+  - Male
+  - Female
+  - Undefine
 --- !u!4 &1348917036
 Transform:
   m_ObjectHideFlags: 0
